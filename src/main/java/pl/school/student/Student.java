@@ -1,6 +1,5 @@
 package pl.school.student;
 
-import jdk.jfr.DataAmount;
 import lombok.Getter;
 import org.hibernate.validator.constraints.Length;
 
