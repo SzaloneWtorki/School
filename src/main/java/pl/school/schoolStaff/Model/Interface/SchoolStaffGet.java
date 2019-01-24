@@ -1,6 +1,6 @@
-package pl.school.SchoolStaff.Model.Interface;
+package pl.school.schoolStaff.Model.Interface;
 
-import pl.school.SchoolStaff.Model.Subjects;
+import pl.school.schoolStaff.Model.Subjects;
 
 public interface SchoolStaffGet {
     public String getFullName();

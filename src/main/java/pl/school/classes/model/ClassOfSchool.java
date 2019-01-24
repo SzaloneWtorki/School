@@ -1,7 +1,7 @@
 package pl.school.classes.model;
 
 import lombok.Data;
-import pl.school.SchoolStaff.Model.Teacher;
+import pl.school.schoolStaff.Model.Teacher;
 
 import java.util.ArrayList;
 
