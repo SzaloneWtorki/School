@@ -1,6 +1,6 @@
-package pl.school.service;
+package pl.school.classes.service;
 
-import pl.school.model.ClassOfSchool;
+import pl.school.classes.model.ClassOfSchool;
 
 public interface ServiceClassOfSchool {
 

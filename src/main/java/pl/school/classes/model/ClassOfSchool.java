@@ -1,4 +1,4 @@
-package pl.school.model;
+package pl.school.classes.model;
 
 import lombok.Data;
 import pl.school.SchoolStaff.Model.Teacher;
