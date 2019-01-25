@@ -2,8 +2,10 @@ package pl.school.classes.model;
 
 import lombok.Data;
 import pl.school.schoolStaff.Model.Teacher;
+import pl.school.student.Student;
 
 import java.util.ArrayList;
+import java.util.List;
 
 @Data
 public class ClassOfSchool {
@@ -13,7 +15,7 @@ public class ClassOfSchool {
     int id;
     String name; // 1a, 1b
     Teacher teacher; //as a tutor
-    List <Student> studentList = new ArrayList<>();
+    List<Student> studentList = new ArrayList<>();
 
 
     @Override
