@@ -1,12 +1,12 @@
 package pl.school.classes.service;
 
-import pl.school.classes.model.ClassOfSchool;
+import pl.school.classes.model.Classroom;
 
 public interface ServiceClassroom {
 
-    public ClassOfSchool create ();
+    public Classroom create ();
 
-    public ClassOfSchool read();
+    public Classroom read();
 
     public void edit ();
 
