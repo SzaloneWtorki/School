@@ -2,7 +2,7 @@ package pl.school.classes.service;
 
 import pl.school.classes.model.ClassOfSchool;
 
-public interface ServiceClassOfSchool {
+public interface ServiceClassroom {
 
     public ClassOfSchool create ();
 
