@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Data
-public class Classroom {
+public class ClassOfSchool {
 
     int numberOfStudents;
     int levelOfEducation; // like 1, 2 etc
