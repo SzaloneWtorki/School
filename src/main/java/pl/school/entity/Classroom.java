@@ -5,5 +5,5 @@ import lombok.Data;
 @Data
 public class Classroom {
     private int number;
-    private boolean isFree;
+    private boolean isFree = true;
 }
