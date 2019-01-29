@@ -1,4 +1,4 @@
-package pl.school.student;
+package pl.school.repository;
 
 import java.time.LocalDate;
 

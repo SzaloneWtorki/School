@@ -1,8 +1,8 @@
-package pl.school.schoolStaff.Model;
+package pl.school.entity;
 
 import org.hibernate.validator.constraints.Length;
-import pl.school.schoolStaff.Model.Interface.SchoolStaffGet;
-import pl.school.schoolStaff.Model.Interface.SchoolStaffUpdater;
+import pl.school.repository.SchoolStaffGet;
+import pl.school.repository.SchoolStaffUpdater;
 
 import javax.validation.constraints.Max;
 import javax.validation.constraints.Min;

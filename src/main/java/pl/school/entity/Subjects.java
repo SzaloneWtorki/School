@@ -1,4 +1,4 @@
-package pl.school.schoolStaff.Model;
+package pl.school.entity;
 
 import lombok.Getter;
 

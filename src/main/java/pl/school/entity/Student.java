@@ -1,7 +1,8 @@
-package pl.school.student;
+package pl.school.entity;
 
 import lombok.Getter;
 import org.hibernate.validator.constraints.Length;
+import pl.school.repository.StudentUpdate;
 
 import javax.validation.constraints.Min;
 import javax.validation.constraints.NotNull;
