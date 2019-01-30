@@ -10,7 +10,7 @@ public enum Subjects {
     ENGLISH(3, "English", new int[]{1, 2, 3, 4, 5, 6}),
     GERMAN(4, "German", new int[]{4, 5, 6}),
     HISTORY(5, "History", new int[]{1, 2, 3, 4, 5, 6}),
-    INFORATICS(6, "Informatics", new int[]{4, 5, 6}),
+    COMPUTER_SCIENCE(6, "Computer Sciense", new int[]{4, 5, 6}),
     PLASTICITY(7, "Plasticity", new int[]{4}),
     MUSIC(8, "Music", new int[]{4, 5}),
     TECHNIQUE(9, "Technique", new int[]{6}),
